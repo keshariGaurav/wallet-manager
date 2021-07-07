@@ -11,4 +11,7 @@ Expense Tracker Application
  step 2 setup "config.env" file inside config folder.
  step 3 run command "npm start" to start the application.
  
+ # variables in config file are
+ ![image](https://user-images.githubusercontent.com/81485471/124691177-05c5bc80-def9-11eb-9b2b-652057632adc.png)
+
  
